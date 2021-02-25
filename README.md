@@ -7,7 +7,7 @@ I really like coding and exploring new subjects
 ---
 ## My projects
 - DNN of the game "snake" [link](https://github.com/TechAle/snake-DNN)
-- An analystic of a server of 200gb [link](https://github.com/TechAle/salc1-data-mining) [Still WIP]
+- An analystic of a server of 200gb [link](https://github.com/TechAle/salc1-data-mining) [In Progress]
 - Perfect bot that can play the game "pong" without errors. [link](https://github.com/TechAle/PongAi)
 - Bot that can manage your account tumblr [link](https://github.com/TechAle/TumblrBot)
 ---
