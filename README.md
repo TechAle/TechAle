@@ -17,7 +17,14 @@ I really like coding and exploring new subjects
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TechAle)](https://github.com/anuraghazra/github-readme-stats)
 ---
-## My Computer science's path
-I Started with a simple game-developing with pygame on the 2017-2018, unfortunately i lost a lot of my old's files.
-One year passed and, because of school, i started learning c/c++/c#/js but, meawhile, i started selenium and data-science.
-The next year, i started with machine learning, so a deep study into math and, because of school again, also php+java+mysql
+## Languages
+| Language         | Knowledge                                                                                                                                                                                                                                                     |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Python           | I have been using python for years,  <br> I used it for machine learning, data science, web scraping/Data collector <br> Game developing, BackEnd and Simple Socket applications.  <br>  It's the language i'm more confident and the one that i use the most |
+| Java             | I have strong knowledge about java thanks to school and open source project i contributed in. <br> I used it for Game Developing, BackEnd                                                                                                                     |
+| Html/Css/Js      | I'm able to create good looking websites using html/css/js.<br>I created most of my websites for school or, just for funs in open source projects                                                                                                             |
+| C#               | I have strong knowledge about c#, in particular on the optimization side. <br> I learned a lot about multithreading and optimizations in c# thanks to my school that went really in deep                                                                      |
+| PhP              | I have good knowledge about PhP, i'm able to create a good backend with it                                                                                                                                                                                    |
+| DataBase (MySql) | Good knowledge about DataBases, how to create them step by step and how to implement them in MySql                                                                                                                                                            |
+| C++              | Basic knowledge about c++, used it a little for school for data structures algorithms                                                                                                                                                                         |
+| C                | Basic Knowledge about c, started using it for school for learning the basics of computer science                                                                                                                                                              |
