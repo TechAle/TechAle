@@ -15,7 +15,8 @@ I really like coding and exploring new subjects
 - Gamesense Utility Client [link](https://github.com/IUDevman/gamesense-client)
 ---
 ## Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TechAle)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://raw.githubusercontent.com/TechAle/github-stats/master/generated/overview.svg)](https://raw.githubusercontent.com/TechAle/github-stats/master/generated/overview.svg)
+[![Languages](https://github.com/TechAle/github-stats/blob/master/generated/languages.svg)](https://github.com/TechAle/github-stats/blob/master/generated/languages.svg)
 ---
 ## Languages
 | Language         | Knowledge                                                                                                                                                                                                                                                     |
