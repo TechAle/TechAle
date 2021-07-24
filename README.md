@@ -2,7 +2,7 @@
 # Hi, I'm Ale  👋
 ---
 ## Who am i?
-I'm currently an high school student of a computer science's school<br>
+I was an high school student of a computer science's school<br>
 I really like coding and exploring new subjects
 ---
 ## My projects
