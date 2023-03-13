@@ -9,13 +9,13 @@
 ale = {
   pronouns: "He | They",
   country: "Italy",
-  age: "19",
+  age: "20",
   status: "Student at unimib"
   spokenLanguages: ["Italian", "English"],
   code: ["Python", "Java", "PHP", "C++", "Kotlin", "Javascript", "C#"], 
-  askMeAbout: ["Web Dev", "Ai", "Music"],
+  askMeAbout: ["Web Dev", "Ai", "Music", "Api"],
   technologies: {
-    backEnd: ["Servlet", "Flask", "PHP"],
+    backEnd: ["Servlet", "Flask", "PHP", "React"],
     frontEnd: ["Bootstrap", "Materialize"],
     databases: ["MySql", "MariaDB"]
   }
