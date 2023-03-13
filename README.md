@@ -7,7 +7,7 @@
 
 
 ale = {
-  pronouns: "He | They",
+  pronouns: "He | Him",
   country: "Italy",
   age: "20",
   status: "Student at unimib"
