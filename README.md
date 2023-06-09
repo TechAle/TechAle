@@ -7,16 +7,15 @@
 
 
 ale = {
-  pronouns: "He | Him",
   country: "Italy",
-  age: "20",
-  status: "Student at unimib"
+  age: "21",
+  status: "Student at UNIMIB"
   spokenLanguages: ["Italian", "English"],
-  code: ["Python", "Java", "PHP", "C++", "Kotlin", "Javascript", "C#"], 
-  askMeAbout: ["Web Dev", "Ai", "Music", "Api"],
+  code: ["Python", "Java", "PHP", "C++", "Kotlin", "Javascript", "C#", "Assembly"], 
+  askMeAbout: ["Web Dev", "Ai", "Api"],
   technologies: {
-    backEnd: ["Servlet", "Flask", "PHP", "React"],
-    frontEnd: ["Bootstrap", "Materialize"],
+    backEnd: ["Servlet", "Flask", "PHP", "jsp"],
+    frontEnd: ["Bootstrap", "Materialize", "React"],
     databases: ["MySql", "MariaDB"]
   }
 }
